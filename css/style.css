@@ -1,0 +1,31 @@
+h1 {
+  font-family: chalkduster;
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  font-family: impact;
+  color: red;
+  text-align: center
+}
+
+body {
+  background: green;
+}
+
+img {
+  margin: auto;
+  Display: block;
+}
+
+.Learning {font-family:arial;color:white;size=500}
+
+div .learning {display:block;}
+
+p {
+  font-family: phosphate;
+  color: white;
+  text-align: center;
+  size=400
+}
